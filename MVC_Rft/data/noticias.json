@@ -1,0 +1,34 @@
+{
+    "noticias": [
+        {
+            "id": 1,
+            "titulo": "Primeira Noticia", 
+            "noticia": "Mussum Ipsum, cacilds vidis litro abertis. Copo furadis é disculpa de bebadis, arcu quam euismod magna. Si num tem leite então bota uma pinga aí cumpadi! Quem manda na minha terra sou euzis! Suco de cevadiss deixa as pessoas mais interessantis."
+        },
+        {
+            "id": 2,
+            "titulo": "Segunda Noticia",
+            "noticia": "Mussum Ipsum, cacilds vidis litro abertis. Copo furadis é disculpa de bebadis, arcu quam euismod magna. Si num tem leite então bota uma pinga aí cumpadi! Quem manda na minha terra sou euzis! Suco de cevadiss deixa as pessoas mais interessantis."  
+        },
+        {
+            "id": 3,
+            "titulo": "Terceira Noticia",
+            "noticia": "Mussum Ipsum, cacilds vidis litro abertis. Copo furadis é disculpa de bebadis, arcu quam euismod magna. Si num tem leite então bota uma pinga aí cumpadi! Quem manda na minha terra sou euzis! Suco de cevadiss deixa as pessoas mais interessantis."
+        },
+        {
+            "id": 4,
+            "titulo": "Quarta Noticia",
+            "noticia": "Mussum Ipsum, cacilds vidis litro abertis. Copo furadis é disculpa de bebadis, arcu quam euismod magna. Si num tem leite então bota uma pinga aí cumpadi! Quem manda na minha terra sou euzis! Suco de cevadiss deixa as pessoas mais interessantis."
+        },
+        {
+            "id": 5,
+            "titulo": "Quinta Noticia",
+            "noticia": "Mussum Ipsum, cacilds vidis litro abertis. Copo furadis é disculpa de bebadis, arcu quam euismod magna. Si num tem leite então bota uma pinga aí cumpadi! Quem manda na minha terra sou euzis! Suco de cevadiss deixa as pessoas mais interessantis."
+        },
+        {
+            "id": 6,
+            "titulo": "Sexta Noticia",
+            "noticia": "Mussum Ipsum, cacilds vidis litro abertis. Copo furadis é disculpa de bebadis, arcu quam euismod magna. Si num tem leite então bota uma pinga aí cumpadi! Quem manda na minha terra sou euzis! Suco de cevadiss deixa as pessoas mais interessantis."
+        }
+    ]
+}
